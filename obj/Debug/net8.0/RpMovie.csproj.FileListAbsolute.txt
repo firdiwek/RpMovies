@@ -1,0 +1,7 @@
+/Users/firdu/Infonanse/Projects/RpMovie/obj/Debug/net8.0/RpMovie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/firdu/Infonanse/Projects/RpMovie/obj/Debug/net8.0/RpMovie.AssemblyInfoInputs.cache
+/Users/firdu/Infonanse/Projects/RpMovie/obj/Debug/net8.0/RpMovie.AssemblyInfo.cs
+/Users/firdu/Infonanse/Projects/RpMovie/obj/Debug/net8.0/RpMovie.csproj.CoreCompileInputs.cache
+/Users/firdu/Infonanse/Projects/RpMovie/obj/Debug/net8.0/RpMovie.MvcApplicationPartsAssemblyInfo.cache
+/Users/firdu/Infonanse/Projects/RpMovie/obj/Debug/net8.0/RpMovie.RazorAssemblyInfo.cache
+/Users/firdu/Infonanse/Projects/RpMovie/obj/Debug/net8.0/RpMovie.RazorAssemblyInfo.cs
